@@ -1,0 +1,8 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=D	;Analysis GUID
+LOCALIZATION_UTF8=9E1B744E939C43CCA0945F27C5F3EA00	Client	C:\Mes Projets\Easy_Fact\Exe\Client.fic
+LOCALIZATION_UTF8=CAC482E50A224E96BAE4F540A3EAEDE1	Facture	C:\Mes Projets\Easy_Fact\Exe\Facture.fic
+LOCALIZATION_UTF8=A4F840EA52174045AA1C71F031D13568	Produit	C:\Mes Projets\Easy_Fact\Exe\Produit.fic
+LOCALIZATION_UTF8=B51D592B27684054A1FEE7CD430543B3	Ligne_facture	C:\Mes Projets\Easy_Fact\Exe\Ligne_facture.fic
+LOCALIZATION_UTF8=7534B71CC30544A1BCBF326520E54749	Société	C:\Mes Projets\Easy_fact\Exe\Société.fic

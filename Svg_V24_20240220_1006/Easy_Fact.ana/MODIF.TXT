@@ -1,0 +1,9 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Client		NFI		nouveau fichier
+Facture		NFI		nouveau fichier
+Produit		NFI		nouveau fichier
+Ligne_facture		NFI		nouveau fichier
+Contrainte_Client_Facture		NWL	Client (IDClient) et Facture (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Facture (IDClient)
+Contrainte_Facture_Ligne_facture		NWL	Facture (IDFacture) et Ligne_facture (IDFacture)	Nouvelle liaison entre les fichiers Facture (IDFacture) et Ligne_facture (IDFacture)
+Contrainte_Produit_Ligne_facture		NWL	Produit (IDProduit) et Ligne_facture (IDProduit)	Nouvelle liaison entre les fichiers Produit (IDProduit) et Ligne_facture (IDProduit)
+Facture	Mode_reglement	RRN		
